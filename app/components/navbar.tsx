@@ -39,10 +39,11 @@ export function NavbarComponent() {
                 <NavbarLink href="#" active>
                     Home
                 </NavbarLink>
-                <NavbarLink href="#">About</NavbarLink>
+                {/* <NavbarLink href="#">About</NavbarLink>
                 <NavbarLink href="#">Services</NavbarLink>
                 <NavbarLink href="#">Pricing</NavbarLink>
-                <NavbarLink href="#">Contact</NavbarLink>
+                <NavbarLink href="#">Contact</NavbarLink> */}
+                <NavbarLink href="#">LOS GASTA AGUA</NavbarLink>
             </NavbarCollapse>
         </Navbar>
     );
