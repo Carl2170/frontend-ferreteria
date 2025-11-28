@@ -16,6 +16,7 @@ const menuItems = [
     { path: "/clientes", title: "Clientes", icon: HiUser },
     { path: "/productos", title: "Productos", icon: HiShoppingBag },
     { path: "/categorias", title: "Categorias", icon: TbCategoryFilled },
+    { path: "/variables", title: "Variables", icon: HiChartPie },
 ];
 
 export function SidebarComponent() {
